@@ -9,7 +9,7 @@ p, h1, h2, h3, h4, h5, h6, li, a, th, td {
 }
 .table-flexbox {
       display: flex;
-      flex-direction: row;
+      flex-direction: column;
       flex-wrap: wrap;
 }
 .autom {
