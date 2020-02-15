@@ -16,7 +16,12 @@ p, h1, h2, h3, h4, h5, h6, li, a, th, td {
       justify-content: center;
 }
 nav ul {
-      border: 2px;
-      display: inline;
       background-color: orange;
+}
+nav ul li {
+      display: inline;
+      list-style-type: none;
+}
+nav ul li a {
+      color: black;
 }
