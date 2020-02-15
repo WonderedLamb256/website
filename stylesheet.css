@@ -15,7 +15,8 @@ p, h1, h2, h3, h4, h5, h6, li, a, th, td {
       flex-flow: row wrap;
       justify-content: center;
 }
-nav {
+nav ul {
       border: 2px;
       display: inline;
+      background-color: orange;
 }
