@@ -16,7 +16,7 @@ p, h1, h2, h3, h4, h5, h6, li, a, th, td {
       justify-content: center;
 }
 nav ul {
-      background-color: orange;
+      background-color: #cfa119;
 }
 nav ul li {
       display: inline;
@@ -24,4 +24,7 @@ nav ul li {
 }
 nav ul li a {
       color: black;
+}
+header {
+      background-image: linear-gradient(to bottom left, black, yellow);
 }
