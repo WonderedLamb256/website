@@ -26,6 +26,11 @@ nav ul li {
 }
 nav ul li a {
       color: black;
+      text-decoration: none;
+}
+nav ul li a:hover {
+      cursor: pointer;
+      color: white;
 }
 body {
       background-image: linear-gradient(to right, #0f2027, #203a43, #2c5364); /* Thank you UIGradients.com! */
