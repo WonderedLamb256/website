@@ -5,7 +5,7 @@
             <title>Cookie Maker</title>
       </head>
       <body>
-            <form action="buildcookie.js">
+            <form name="form" action="buildcookie.js" onsubmit="return saveCookie();">
                   <label for="cookie">What do you want to put in the cookie?</label><br/>
                   <input type="text" id="cookie" name="cookie"/><br/><br/>
                   <input type="submit" value="Submit"/>
