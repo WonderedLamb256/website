@@ -1,2 +1,14 @@
 /* =-= Learn.js Stylesheet */
 /* !! Learn.js is a ficticious website. !! */
+
+/* =-= Global =-= */
+body {
+      font-family: "Roboto", sans-serif;
+}
+/* =-= Navigation =-= */
+nav ul {
+      list-style-type: none;
+}
+nav ul li {
+      display: inline;
+}
