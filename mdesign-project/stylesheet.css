@@ -33,3 +33,10 @@ nav ul li a {
 nav ul li button {
       padding: 8px;
 }
+/* =-= ID-wide =-= */
+#background {
+      background-image: url('learnjsbg.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
