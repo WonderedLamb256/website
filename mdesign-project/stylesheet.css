@@ -18,7 +18,18 @@ button {
       display: inline-block;
       font-size: 14px;
       box-shadow: 3px 3px black;
-}      
+}
+button:hover {
+      box-shadow: 1px 1px black;
+}
+header {
+      background-color: white;
+      color: black;
+}
+footer {
+      background-color: black;
+      color: white;
+}
 /* =-= Navigation =-= */
 nav ul {
       list-style-type: none;
