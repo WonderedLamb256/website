@@ -50,5 +50,5 @@ nav ul li button {
       background-image: url('learnjsbg.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: auto;
 }
