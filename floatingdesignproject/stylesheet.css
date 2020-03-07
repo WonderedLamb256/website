@@ -1,6 +1,10 @@
 body {
       background-color: aliceblue;
 }
+html, body {
+      height: 100%;
+      width: 100%;
+}
 #sidebar {
       background-color: lightskyblue;
       float: left;
